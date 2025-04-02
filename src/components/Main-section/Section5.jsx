@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import logo from "../../commonResource/images/icons/apple-tv-logo.png";
 import banker from "../../commonResource/images/home/banker.png";
 import watch from "../../commonResource/images/icons/watch-series5-logo.png";

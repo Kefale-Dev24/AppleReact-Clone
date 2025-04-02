@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import arcade from "../../commonResource/images/icons/arcade.png";
 
 function Section6() {
